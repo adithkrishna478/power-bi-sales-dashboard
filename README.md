@@ -72,3 +72,7 @@ This project demonstrates practical skills in:
 * Business-question-driven analysis
 * Sales and profitability analysis
 * Dashboard design
+
+## 📷 Dashboard Preview
+
+![Retail Sales Dashboard](Screenshots/dashboard-page-1.png)
